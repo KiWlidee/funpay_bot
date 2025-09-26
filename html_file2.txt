@@ -1,71 +1,70 @@
-<div class="contact-list custom-scroll">
-<a class="contact-item" data-id="201750094" data-node-msg="3739279508" data-user-msg="3739279508" href="https://funpay.com/chat/?node=201750094">
-<div class="contact-item-photo">
-<div class="avatar-photo" style="background-image: url(https://sfunpay.com/s/avatar/a9/59/a959o8t4dywaqkbq4hnr.jpg);"></div>
-</div>
-<div class="media-user-name">KiWlide</div>
-<div class="contact-item-message">123</div>
-<div class="contact-item-time">16:26</div>
-</a>
-<a class="contact-item" data-id="188328967" data-node-msg="3552464503" data-user-msg="3552464503" href="https://funpay.com/chat/?node=188328967">
-<div class="contact-item-photo">
-<div class="avatar-photo" style="background-image: url(https://sfunpay.com/s/avatar/m0/z6/m0z6efmw2nfc5jzti52o.jpg);"></div>
-</div>
-<div class="media-user-name">PloyBackUwU</div>
-<div class="contact-item-message">/get_code</div>
-<div class="contact-item-time">13.08</div>
-</a>
-<a class="contact-item" data-id="190220792" data-node-msg="3551263748" data-user-msg="3551263748" href="https://funpay.com/chat/?node=190220792">
-<div class="contact-item-photo">
-<div class="avatar-photo" style="background-image: url(https://sfunpay.com/s/avatar/i0/ez/i0ez9gp42trkoo17w006.jpg);"></div>
-</div>
-<div class="media-user-name">KeYYYze</div>
-<div class="contact-item-message">Изображение</div>
-<div class="contact-item-time">13.08</div>
-</a>
-<a class="contact-item" data-id="189149565" data-node-msg="3547216983" data-user-msg="3547216983" href="https://funpay.com/chat/?node=189149565">
-<div class="contact-item-photo">
-<div class="avatar-photo" style="background-image: url(https://sfunpay.com/s/avatar/ot/76/ot7666uhayzkd7z3q15n.jpg);"></div>
-</div>
-<div class="media-user-name">GoingBack2121</div>
-<div class="contact-item-message">Продавец GoingBack2121 вернул деньги покупателю kisshmish по заказу #KUMCP882.</div>
-<div class="contact-item-time">12.08</div>
-</a>
-<a class="contact-item" data-id="189886401" data-node-msg="3545335542" data-user-msg="3545335542" href="https://funpay.com/chat/?node=189886401">
-<div class="contact-item-photo">
-<div class="avatar-photo" style="background-image: url(https://sfunpay.com/s/avatar/vm/hi/vmhi1wz5pdf0la2y04kn.jpg);"></div>
-</div>
-<div class="media-user-name">Arsenii</div>
-<div class="contact-item-message">Здравствуйте.
+
+
+
+
+
+KiWlide
+123
+18:54
+
+
+
+
+
+PloyBackUwU
+/get_code
+13.08
+
+
+
+
+
+KeYYYze
+Изображение
+13.08
+
+
+
+
+
+GoingBack2121
+Продавец GoingBack2121 вернул деньги покупателю kisshmish по заказу #KUMCP882.
+12.08
+
+
+
+
+
+Arsenii
+Здравствуйте.
 
 Обращаю ваше внимание на то, что оскорблять других пользователей и писать назойливые повторяющиеся сообщения (спам, флуд) в чате строго запрещено правилами FunPay: https://funpay.com/trade/info
-Если вы продолжите игнорировать эти прави</div>
-<div class="contact-item-time">12.08</div>
-</a>
-<a class="contact-item" data-id="189160134" data-node-msg="3532854254" data-user-msg="3532854254" href="https://funpay.com/chat/?node=189160134">
-<div class="contact-item-photo">
-<div class="avatar-photo" style="background-image: url(https://sfunpay.com/s/avatar/rh/7j/rh7j6aibim9k0y57y0zr.jpg);"></div>
-</div>
-<div class="media-user-name">Wade</div>
-<div class="contact-item-message">оффлайн активация не в том разделе</div>
-<div class="contact-item-time">09.08</div>
-</a>
-<a class="contact-item" data-id="187915798" data-node-msg="3513412065" data-user-msg="3513412065" href="https://funpay.com/chat/?node=187915798">
-<div class="contact-item-photo">
-<div class="avatar-photo" style="background-image: url(https://sfunpay.com/s/avatar/va/zo/vazoibn4pd2wz5qlz0uh.jpg);"></div>
-</div>
-<div class="media-user-name">skuratovshop</div>
-<div class="contact-item-message">Ахуеть, ты как это сделал</div>
-<div class="contact-item-time">05.08</div>
-</a>
-<a class="contact-item" data-id="178087482" data-node-msg="3347322925" data-user-msg="3347322925" href="https://funpay.com/chat/?node=178087482">
-<div class="contact-item-photo">
-<div class="avatar-photo" style="background-image: url(https://sfunpay.com/s/avatar/l2/tf/l2tfayhdykc5qt2v8z7v.jpg);"></div>
-</div>
-<div class="media-user-name">VladikPalq</div>
-<div class="contact-item-message">⁡🤖 𝑭𝒖𝒏𝑷𝒂𝒚 𝑪𝒂𝒓𝒅𝒊𝒏𝒂𝒍 🐦
+Если вы продолжите игнорировать эти прави
+12.08
+
+
+
+
+
+Wade
+оффлайн активация не в том разделе
+09.08
+
+
+
+
+
+skuratovshop
+Ахуеть, ты как это сделал
+05.08
+
+
+
+
+
+VladikPalq
+⁡🤖 𝑭𝒖𝒏𝑷𝒂𝒚 𝑪𝒂𝒓𝒅𝒊𝒏𝒂𝒍 🐦
 k⁣i⁣s⁣s⁣h⁣m⁣i⁣s⁣h, спасибо за подтверждение заказа GYMPDH9Q!
-Если не сложно, оставь, пожалуйста, отзыв!</div>
-<div class="contact-item-time">23.06</div>
-</a>
-</div>
+Если не сложно, оставь, пожалуйста, отзыв!
+23.06
+
