@@ -1,0 +1,4 @@
+LOGIN = "momojaja337@gmail.com"
+PASSWORD = "AndroidDinamo"
+TELEGRAM_TOKEN = "8320696192:AAGYIp58rcQEknqP-K6ShtvF0HbefVlC9-Y"
+TELEGRAM_CHAT_ID = "1414872963"  #  @CrowelllL
