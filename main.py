@@ -9,7 +9,7 @@ from selenium.webdriver.common.by import By
 
 from time import sleep
 
-from data import LOGIN, PASSWORD, TELEGRAM_TOKEN, TELEGRAM_CHAT_ID
+from data import LOGIN, PASSWORD, TELEGRAM_TOKEN, TELEGRAM_CHAT_ID  # Ваши данные
 
 browser = webdriver.Firefox()
 browser.get("https://funpay.com/account/login")
